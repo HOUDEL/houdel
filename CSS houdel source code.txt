@@ -1,0 +1,368 @@
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* delivery page */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT OPTIONS */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* PAYMENT PAGE */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* sandwich */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* Idli */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* chana jhoal */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* aam ka achar */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* papad */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* sheer khurma */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* hyderabadi chicken biryani */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* Bagara Khana Dalcha */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FA9F80;
+
+
+/* home page */
+
+
+position: relative;
+width: 375px;
+height: 2267px;
+
+background: #FFFFFF;
+
+
+/* Login */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Register */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* Logged out */
+
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* seemore */
+
+
+position: relative;
+width: 375px;
+height: 1861px;
+
+background: #FFFFFF;
